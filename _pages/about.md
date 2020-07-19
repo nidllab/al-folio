@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 description: >
-  Assistant Research Professor, <a href="http://psych.uconn.edu">Department of Psychological Sciences</a>, <a href="http://uconn.edu">University of Connecticut</a>
+
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: rh_profile.jpg
   address: >
     <p>Brain Imaging Research Center</p>
     <p>2 Alethia Dr, Unit 1271</p>
@@ -17,8 +17,14 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Language is a remarkably complex and evolutionarily recent capacity that recruits a wide range of brain networks, with high individual variability. The NIDL Lab vision is to characterize the range of neurobiological instantiations of the language network as a means of better understanding the computations we perform during language processing and the biological factors that can affect these processes. This work will ultimately contribute to both our theoretical understanding of language as a key human faculty, and a translational understanding of the mechanisms underlying disordered language processing in neurodevelopmental disorders (e.g. dyslexia) and psychopathology.
+Two extremes in neurobiological instantiation pose questions of particular interest:
+Which neurobiological substrates for language show minimal variation across individuals, possibly reflecting conserved core linguistic computations?
+ Which substrates show high, performance-related variability across individuals, possibly reflecting alternative processing strategies?
+We use multimodal neuroimaging, including M/EEG, functional MRI, and magnetic resonance spectroscopy (MRS) to address these questions in both typical and atypical individuals across the lifespan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Methods
+As a prerequisite to methodologically sound individual differences research using inherently noisy measurements, we are also interested in improving the reliability and reproducibility of our techniques, including
+Improved magnetic resonance spectroscopy (MRS) techniques
+Developing language tasks with high specificity and test-retest reliability
+Model-based EEG/TMS

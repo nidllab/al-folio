@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Roeland Hancock
+title: NIDL Lab
 email: rhancock@uconn.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -48,7 +48,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  <a href="mailto:rhancock@uconn.edu">rhancock@uconn.edu</a> | +1 860-486-4042
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -80,6 +80,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  people:
+    output: true
+    permalink: /people/:path/
 
 news_limit: 5
 
