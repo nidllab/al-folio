@@ -5,14 +5,6 @@ permalink: /
 description: >
 
 
-profile:
-  align: right
-  image: rh_profile.jpg
-  address: >
-    <p>Brain Imaging Research Center</p>
-    <p>2 Alethia Dr, Unit 1271</p>
-    <p>Storrs, CT 06269</p>
-
 news: true
 social: true
 ---
