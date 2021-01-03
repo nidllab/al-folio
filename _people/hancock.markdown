@@ -5,6 +5,7 @@ title: Roeland Hancock, PhD
 img: /assets/img/rh_profile.jpg
 importance: 1
 lastname: Hancock
+category: pi
 ---
 
 <div class="row justify-content-sm-center">
@@ -18,9 +19,7 @@ lastname: Hancock
   	<a href="https://uconn.edu">University of Connecticut</a>
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
 
   
   

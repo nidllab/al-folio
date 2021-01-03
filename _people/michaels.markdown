@@ -6,6 +6,7 @@ img: /assets/img/profile_michaels.jpg
 importance: 2
 lastname: Michaels
 website: https://translab.psy.uconn.edu/timothy-michaels/
+category: alumni
 ---
 
 <div class="row justify-content-sm-center">
@@ -13,7 +14,8 @@ website: https://translab.psy.uconn.edu/timothy-michaels/
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/profile_michaels.jpg' | relative_url }}" alt="" title="Timothy Michaels"/>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-	  	Doctoral Candidate, Clinical Psychology<br>
+    	Postdoctoral Fellow, The Donald and Barbara Zucker School of Medicine, Hofstra University/Northwell Health<br>
+	  	2020 PhD, University of Connecticut, Clinical Psychology<br>
 	  	<a href="https://psych.uconn.edu">Department of Psychological Sciences</a>
     </div>
 </div>

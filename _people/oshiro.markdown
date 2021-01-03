@@ -6,6 +6,7 @@ img: /assets/img/profile_oshiro.jpg
 importance: 3
 lastname: Oshiro
 website: https://math.uconn.edu/person/briana-oshiro/
+category: grad
 ---
 
 <div class="row justify-content-sm-center">
