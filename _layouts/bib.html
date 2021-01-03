@@ -73,6 +73,12 @@
     {% if entry.html %}
       [<a href="{{ entry.html }}" target="_blank">HTML</a>]
     {% endif %}
+    {% if entry.url %}
+      [<a href="{{ entry.url }}" target="_blank">Publisher</a>]
+    {% endif %}
+    {% if entry.openurl %}
+      [<a href="{{ entry.url }}" target="_blank">Full text</a>]
+    {% endif %}
     {% if entry.pdf %}
       [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a>]
     {% endif %}
